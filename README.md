@@ -5,7 +5,7 @@ Complete source code for [Django Rest Framework](https://www.django-rest-framewo
 ## Local Setup
 
 ```
-$ git clone  https://github.com/wsvincent/django-rest-framework.git
+$ git clone  https://github.com/preetsshah/django-rest-framework.git
 $ cd django-rest-framework
 $ pipenv install
 $ pipenv shell
